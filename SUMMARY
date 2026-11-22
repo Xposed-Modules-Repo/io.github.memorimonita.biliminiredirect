@@ -1,0 +1,2 @@
+把 QQ / 微信小程序里「打开哔哩哔哩」的跳转改到第三方客户端（默认 PiliPlus）
+内置 native 规避，屏蔽 QQ 风控库对 /proc/self/smaps 的读取
